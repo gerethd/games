@@ -677,19 +677,19 @@ Forces:
 								-.4, -.02, .7, .7, -.2, 9, .2, Vehicles/Suv/suv_max_speed_lp
 								"/>
 			<property name="gear2" value="
-								500,2500, -2000,1000,2000, 600,2200,800,
+								500,5000, -2000,1000,2000, 600,2200,800,
 								Vehicles/Suv/suv_accel2,
 								Vehicles/Suv/suv_decel1,
 								-.25, -.05, .2, .4, -1, 1, .1, Vehicles/Suv/suv_max_speed_lp
 								"/>
 			<property name="gear3" value="
-								500,2500, -2000,1000,2000, 500,2200,1000,
+								500,1000, -2000,1000,2000, 500,2200,1000,
 								Vehicles/Suv/suv_accel3,
 								Vehicles/Suv/suv_decel2,
 								-.28, -.07, .3, .6, -1, 1, .1, Vehicles/Suv/suv_max_speed_lp
 								"/>
 			<property name="gear4" value="
-								500,2500, -2000,1000,2000, 500,9999,9999,
+								500,15000, -2000,1000,2000, 500,9999,9999,
 								,
 								Vehicles/Suv/suv_decel2,
 								-.31, -.08, .6, .9, -1, 1, .1, Vehicles/Suv/suv_max_speed_lp
